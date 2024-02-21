@@ -14,7 +14,7 @@ npm install
 
 ## Frontend para probar la API
 
-En el directorio del proyecto, puede ejecutar:
+En el directorio del proyecto, puede ejecutar para levantar el proyecto:
 
 ### `npm start`
 
