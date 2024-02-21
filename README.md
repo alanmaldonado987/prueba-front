@@ -6,6 +6,12 @@ git clone https://github.com/alanmaldonado987/prueba-front.git
 
 o descargandolo directamente.
 
+## Instalar las dependencias
+
+```bash
+npm install
+```
+
 ## Frontend para probar la API
 
 En el directorio del proyecto, puede ejecutar:
